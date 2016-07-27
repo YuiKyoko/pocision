@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+div{
+	width: 200px;
+	height: 200px;
+}
+.uno{
+	background-color: #ee3e64;
+	position: relative;
+	width: 400px;
+}
+.dos{
+	background-color: #44accf;
+	position: absolute;
+	right: 0;
+}
+.tres{
+	background-color: gold;
+}
